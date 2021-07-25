@@ -1,6 +1,9 @@
 # DailyJournal
 A simple blogging/journaling web app using NodeJS, EJS, MongoDB Atlas, Mongoose.
 
+# Live
+[You can experience the daily journal live here](https://dailyjournal0.herokuapp.com/)
+
 # Screenshot
 ![screenshot](https://raw.githubusercontent.com/BaraSec/DailyJournal/main/image.png)
 
